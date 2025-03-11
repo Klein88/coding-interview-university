@@ -96,7 +96,7 @@ For a complete CS self-taught program, the resources for my study plan have been
 
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)x
 - [Data Structures](#data-structures)
-    - [Arrays](#arrays)
+    - [Arrays](#arrays)x
     - [Linked Lists](#linked-lists)
     - [Stack](#stack)
     - [Queue](#queue)
